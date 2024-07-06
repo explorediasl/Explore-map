@@ -1,0 +1,218 @@
+body {
+    background-image: url("bg.jpg");
+    background-repeat: repeat-x;
+  }
+
+.mapdiv {
+
+    width: 28%;
+    margin: auto;
+}
+
+.mapdiv path {
+    stroke: #c0c0c0;
+    stroke-width: 4px;
+}
+
+
+.kandy-path {
+    fill: #17581a;
+    transition: fill 0.3s;
+}
+.kandy-path:hover {
+    fill: #575757;
+}
+
+.nuwaraeliya-path {
+    fill: #17581a;
+    transition: fill 0.3s;
+}
+.nuwaraeliya-path:hover {
+    fill: #575757;
+}
+
+.matale-path {
+    fill: #17581a;
+    transition: fill 0.3s;
+}
+.matale-path:hover {
+    fill: #575757;
+}
+
+.polonnaruwa-path {
+    fill: #a6343c;
+    transition: fill 0.3s;
+}
+.polonnaruwa-path:hover {
+    fill: #575757;
+}
+
+.anuradhapura-path {
+    fill: #a6343c;
+    transition: fill 0.3s;
+}
+.anuradhapura-path:hover {
+    fill: #575757;
+}
+
+.trinco-path {
+    fill: #3553ee;
+    transition: fill 0.3s;
+}
+.trinco-path:hover {
+    fill: #575757;
+}
+
+.ampara-path {
+    fill: #3553ee;
+    transition: fill 0.3s;
+}
+.ampara-path:hover {
+    fill: #575757;
+}
+
+.batticaloa-path {
+    fill: #3553ee;
+    transition: fill 0.3s;
+}
+.batticaloa-path:hover {
+    fill: #575757;
+}
+
+
+.vavuniya-path {
+    fill: #f08f42;
+    transition: fill 0.3s;
+}
+.vavuniya-path:hover {
+    fill: #575757;
+}
+
+.jaffna-path {
+    fill: #f08f42;
+    transition: fill 0.3s;
+}
+.jaffna-path:hover {
+    fill: #575757;
+}
+
+.mannar-path {
+    fill: #f08f42;
+    transition: fill 0.3s;
+}
+.mannar-path:hover {
+    fill: #575757;
+}
+
+.mullativu-path {
+    fill: #f08f42;
+    transition: fill 0.3s;
+}
+.mullativu-path:hover {
+    fill: #575757;
+}
+
+.kilinochchi-path {
+    fill: #f08f42;
+    transition: fill 0.3s;
+}
+.kilinochchi-path:hover {
+    fill: #575757;
+}
+
+.kurunegala-path {
+    fill: #77bb80;
+    transition: fill 0.3s;
+}
+.kurunegala-path:hover {
+    fill: #575757;
+}
+
+.puttalam-path {
+    fill: #77bb80;
+    transition: fill 0.3s;
+}
+.puttalam-path:hover {
+    fill: #575757;
+}
+
+.rathnapura-path {
+    fill: #d660ce;
+    transition: fill 0.3s;
+}
+.rathnapura-path:hover {
+    fill: #575757;
+}
+
+.kegalle-path {
+    fill: #d660ce;
+    transition: fill 0.3s;
+}
+.kegalle-path:hover {
+    fill: #575757;
+}
+
+
+.galle-path {
+    fill: #12a8ce;
+    transition: fill 0.3s;
+}
+.galle-path:hover {
+    fill: #575757;
+}
+
+.matara-path {
+    fill: #12a8ce;
+    transition: fill 0.3s;
+}
+.matara-path:hover {
+    fill: #575757;
+}
+
+.hambantota-path {
+    fill: #12a8ce;
+    transition: fill 0.3s;
+}
+.hambantota-path:hover {
+    fill: #575757;
+}
+
+.badulla-path {
+    fill: #febc48;
+    transition: fill 0.3s;
+}
+.badulla-path:hover {
+    fill: #575757;
+}
+
+.moneragala-path {
+    fill: #febc48;
+    transition: fill 0.3s;
+}
+.moneragala-path:hover {
+    fill: #575757;
+}
+
+.colombo-path {
+    fill: #e5e548;
+    transition: fill 0.3s;
+}
+.colombo-path:hover {
+    fill: #575757;
+}
+
+.gampaha-path {
+    fill: #e5e548;
+    transition: fill 0.3s;
+}
+.badugampahalla-path:hover {
+    fill: #575757;
+}
+
+.kalutara-path {
+    fill: #e5e548;
+    transition: fill 0.3s;
+}
+.kalutara-path:hover {
+    fill: #575757;
+}
